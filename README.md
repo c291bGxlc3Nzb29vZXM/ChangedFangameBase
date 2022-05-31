@@ -5,6 +5,6 @@ ChangedFangameBase is a GML Visual GameMaker game that has a movement system wit
 # Prerequisites
 GameMaker Studio 2
 
-Knowledge of GameMaker DnD or Code
+Knowledge of GameMaker Visuals or Code
 # Prerequisites for Compiling
 what?
