@@ -6,8 +6,8 @@
   "solid": true,
   "visible": true,
   "spriteMaskId": {
-    "name": "hitboxsprite",
-    "path": "sprites/hitboxsprite/hitboxsprite.yy",
+    "name": "LinIdle",
+    "path": "sprites/LinIdle/LinIdle.yy",
   },
   "persistent": false,
   "parentObjectId": null,
